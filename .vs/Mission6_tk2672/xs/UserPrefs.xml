@@ -1,4 +1,39 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D5D7E80F-B906-4EC2-A7AB-783AC75FDA4B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Mission6__tk2672 PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission6_tk2672/Models/ApplicationResponse.cs">
+    <Files>
+      <File FileName="Mission6_tk2672/Views/Home/Index.cshtml" />
+      <File FileName="Mission6_tk2672/Views/Shared/_Layout.cshtml" />
+      <File FileName="Mission6_tk2672/Views/Home/MyPodcasts.cshtml" />
+      <File FileName="Mission6_tk2672/Views/Home/MovieForm.cshtml" />
+      <File FileName="Mission6_tk2672/Controllers/HomeController.cs" />
+      <File FileName="Mission6_tk2672/Models/ApplicationResponse.cs" Line="9" Column="13" />
+      <File FileName="Mission6_tk2672/Views/Home/Confirmation.cshtml" />
+      <File FileName="Mission6_tk2672/appsettings.json" />
+      <File FileName="Mission6_tk2672/Models/DateApplicationContext.cs" />
+      <File FileName="Mission6_tk2672/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission6_tk2672" expanded="True">
+            <Node name="Mission6_tk2672" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mission6__tk2672 PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

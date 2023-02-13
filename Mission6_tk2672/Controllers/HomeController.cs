@@ -23,6 +23,23 @@ namespace Mission6_tk2672.Controllers
             return View();
         }
 
+        public IActionResult MyPodcasts()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult MovieForm()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult MovieForm(ApplicationResponse ar)
+        {
+            return View("Confirmation", ar);
+        }
+
         public IActionResult Privacy()
         {
             return View();
